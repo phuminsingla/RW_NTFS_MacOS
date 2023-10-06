@@ -25,3 +25,10 @@ brew install ntfs-3g-mac
 Step 5
 
 chmod +x rwntfs
+
+
+-----------------------------------------
+
+Usage.
+
+./rwntfs
