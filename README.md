@@ -47,3 +47,4 @@ Enable terminal
      -> Developer Tools
      -> Allow Terminal
 
+Reboot System.
