@@ -48,3 +48,5 @@ Enable terminal
      -> Allow Terminal
 
 Reboot System.
+
+![Screenshot 2566-10-09 at 06 41 00](https://github.com/phuminsingla/RW_NTFS_MacOS/assets/5608098/ad8260f7-64fc-468b-93f1-b2c2b3a160a2)
