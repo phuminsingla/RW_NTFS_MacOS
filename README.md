@@ -40,3 +40,10 @@ Usage.
 Automation on Status.
 
 ./install
+
+Enable terminal 
+-> System Settings
+  -> Privacy & Security
+     -> Developer Tools
+     -> Allow Terminal
+
