@@ -1,4 +1,4 @@
-# RW_NTFS_MacOS
+# NTFS Re Write for MacOS
 
 Install brew on shell commands
 
