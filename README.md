@@ -26,9 +26,17 @@ Step 5
 
 chmod +x rwntfs
 
+chmod +x install
 
 -----------------------------------------
 
 Usage.
 
 ./rwntfs
+
+
+-----------------------------------------
+
+Automation on Status.
+
+./install
