@@ -2,7 +2,7 @@
 
 ## Install brew on terminal
 
-How to Install Homebrew on Mac
+How to Install Homebrew on Mac by EasyOSX
 https://www.youtube.com/watch?v=IWJKRmFLn-g
 
 ### Step 1
