@@ -38,7 +38,7 @@ chmod +x install
 
 -----------------------------------------
 
-## Automation on Status.
+## Run script as startup.
 
 ./install
 
