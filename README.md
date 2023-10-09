@@ -52,3 +52,10 @@ Reboot System.
 
 ![Screenshot 2566-10-09 at 07 17 01](https://github.com/phuminsingla/RW_NTFS_MacOS/assets/5608098/3c8d62bb-a498-4a65-82a3-a8b72b7e1b9d)
 
+
+## Credits
+<ul>
+	<li>[EasyOSX](https://www.youtube.com/@EasyOSX)</li>
+	<li>[Homebrew](https://brew.sh/)</li>
+	<li>[Tuxera ntfs-3g](https://www.tuxera.com/company/open-source/)</li>
+</ul>
