@@ -25,7 +25,7 @@ brew install --cask macfuse
 brew install ntfs-3g-mac 
 
 
-### Step 3 open app
+### Step 3
 
 Download NTFS-ReadWrite.app
 
