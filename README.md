@@ -1,6 +1,6 @@
 # Read and Write NTFS for Mac
 
-Compatibility : Big Sur, Monterey, Ventura, Sonoma
+Compatibility : Big Sur, Monterey, Ventura, Sonoma for CPU x64
 
 ## Install brew on terminal
 
