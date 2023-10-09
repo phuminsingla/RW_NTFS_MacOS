@@ -1,28 +1,25 @@
 # NTFS Re Write for MacOS
 
-Install brew on shell commands
+##Install brew on shell commands
 
-Step 1
+https://www.youtube.com/watch?v=IWJKRmFLn-g
+
+###Step 1
 
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 
-Step 2
+
+###Step 2
 
 brew tap gromgit/homebrew-fuse
 
-
-Step 3
-
 brew install --cask macfuse
-
-
-Step 4
 
 brew install ntfs-3g-mac 
 
 
-Step 5
+###Step 3
 
 chmod +x rwntfs
 
@@ -30,14 +27,14 @@ chmod +x install
 
 -----------------------------------------
 
-Usage.
+##Usage.
 
 ./rwntfs
 
 
 -----------------------------------------
 
-Automation on Status.
+##Automation on Status.
 
 ./install
 
