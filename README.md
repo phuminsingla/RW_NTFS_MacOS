@@ -35,6 +35,10 @@ Download NTFS-ReadWrite.dmg
 
 Open NTFS-ReadWrite.dmg and copy to Apptications.
 
+Allow apps downloaded from NTFS-ReadWrite
+
+![Screen Shot 2566-10-09 at 14 03 24](https://github.com/phuminsingla/RW_NTFS_MacOS/assets/5608098/38b3ee8c-4a0f-401f-ab7c-47502a076d40)
+
 -----------------------------------------
 
 
