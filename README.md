@@ -27,14 +27,13 @@ brew install ntfs-3g-mac
 
 ### Step 3
 
-Download NTFS-ReadWrite.app
+Download NTFS-ReadWrite.dmg
 
 -----------------------------------------
 
 ### Usage.
 
-Open NTFS-ReadWrite.app
-
+Open NTFS-ReadWrite.dmg and copy to Apptications.
 
 -----------------------------------------
 
