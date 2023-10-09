@@ -1,4 +1,6 @@
-# NTFS Re Write for MacOS
+# Read and Write NTFS for Mac
+
+Compatibility : Big Sur, Monterey, Ventura, Sonoma
 
 ## Install brew on terminal
 
