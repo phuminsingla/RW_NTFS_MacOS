@@ -25,34 +25,19 @@ brew install --cask macfuse
 brew install ntfs-3g-mac 
 
 
-### Step 3 Unzip files.
+### Step 3 open app
 
-chmod +x rwntfs
-
-chmod +x install
+Download NTFS-ReadWrite.app
 
 -----------------------------------------
 
 ### Usage.
 
-./rwntfs
+Open NTFS-ReadWrite.app
 
 
 -----------------------------------------
 
-## Run script as startup.
-
-./install
-
-Enable terminal 
--> System Settings
-  -> Privacy & Security
-     -> Developer Tools
-     -> Allow Terminal
-
-Reboot System.
-
-![Screenshot 2566-10-09 at 07 17 01](https://github.com/phuminsingla/RW_NTFS_MacOS/assets/5608098/3c8d62bb-a498-4a65-82a3-a8b72b7e1b9d)
 
 
 ## Credits
