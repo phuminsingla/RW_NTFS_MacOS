@@ -1,6 +1,6 @@
 # NTFS Re Write for MacOS
 
-## Install brew on shell commands
+## Install brew on terminal
 
 How to Install Homebrew on Mac
 https://www.youtube.com/watch?v=IWJKRmFLn-g
