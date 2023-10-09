@@ -23,7 +23,7 @@ brew install --cask macfuse
 brew install ntfs-3g-mac 
 
 
-### Step 3
+### Step 3 Unzip files.
 
 chmod +x rwntfs
 
