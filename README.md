@@ -57,6 +57,7 @@ sudo ntfsfix /dev/disk2s1
 
 ![414470440_1521246378655647_5916290364917890632_n](https://github.com/phuminsingla/RW_NTFS_MacOS/assets/5608098/259ecbc1-d581-49d4-beb1-f1d5fc81e5f0)
 
+-----------------------------------------
 
 ### Bypass password and login start app.
 
@@ -106,6 +107,7 @@ Save project and add program on Login Items
 
 <img width="485" alt="Screenshot 2567-01-02 at 18 13 08" src="https://github.com/phuminsingla/RW_NTFS_MacOS/assets/5608098/ce985fe2-ac6d-4b6e-995a-d23fe9702037">
 
+-----------------------------------------
 
 ## Credits
 <ul>
