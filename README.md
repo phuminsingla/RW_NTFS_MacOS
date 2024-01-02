@@ -50,15 +50,18 @@ Allow apps downloaded from NTFS-ReadWrite
 ### Troubleshoot.
 Find disk name on terminal
 
+```
 diskutil list
+```
 
 demo disk name is disk2s1
 
 <img width="1063" alt="Screenshot 2567-01-02 at 16 54 32" src="https://github.com/phuminsingla/RW_NTFS_MacOS/assets/5608098/6308a569-e412-43f4-9262-0d5b750da3a6">
 
 
-
+```
 sudo ntfsfix /dev/disk2s1
+```
 
 ![414470440_1521246378655647_5916290364917890632_n](https://github.com/phuminsingla/RW_NTFS_MacOS/assets/5608098/259ecbc1-d581-49d4-beb1-f1d5fc81e5f0)
 
