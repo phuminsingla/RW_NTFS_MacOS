@@ -75,7 +75,8 @@ open app Automator
 
 Open an Existing Document...
 
-<img width="557" alt="Screenshot 2567-01-02 at 18 09 56" src="https://github.com/phuminsingla/RW_NTFS_MacOS/assets/5608098/5144212c-892b-4fdb-92d5-7ae9bf34dbf5">
+![103593](https://github.com/phuminsingla/RW_NTFS_MacOS/assets/5608098/52c2731b-7ace-456f-bb94-320d843b1fe5)
+
 
 Select app NTFS-ReadWrite
 
@@ -108,7 +109,8 @@ end run
 
 ```
 
-<img width="1156" alt="Screenshot 2567-01-02 at 18 12 34" src="https://github.com/phuminsingla/RW_NTFS_MacOS/assets/5608098/01c954ac-87bb-4e43-baa5-bccc062000da">
+![103592](https://github.com/phuminsingla/RW_NTFS_MacOS/assets/5608098/382fd789-4bd1-43ce-8244-27a845a6da7a)
+
 
 
 Save project and add program on Login Items
