@@ -11,19 +11,24 @@ https://www.youtube.com/watch?v=IWJKRmFLn-g
 
 ![Screenshot 2566-10-09 at 07 17 47](https://github.com/phuminsingla/RW_NTFS_MacOS/assets/5608098/2c37f66f-846e-4a56-94cb-1fc2057dcc3f)
 
-
+```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-
+```
 
 
 ### Step 2
 
+```
 brew tap gromgit/homebrew-fuse
+```
 
+```
 brew install --cask macfuse
+```
 
+```
 brew install ntfs-3g-mac 
-
+```
 
 ### Step 3
 
