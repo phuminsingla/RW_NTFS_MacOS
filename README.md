@@ -38,34 +38,9 @@ Download NTFS-ReadWrite.dmg
 
 ### Usage.
 
-Open NTFS-ReadWrite.dmg and copy to Apptications.
+Open NTFS-ReadWrite.dmg and open file Fix_and_Instll_Application.command
 
-Allow apps downloaded from NTFS-ReadWrite
-
-![Screen Shot 2566-10-09 at 14 03 24](https://github.com/phuminsingla/RW_NTFS_MacOS/assets/5608098/38b3ee8c-4a0f-401f-ab7c-47502a076d40)
-
-<img width="268" alt="Screenshot 2567-01-04 at 19 33 53" src="https://github.com/phuminsingla/RW_NTFS_MacOS/assets/5608098/1b21dce6-70fe-40a1-b0b9-42bedcce02c6">
-
------------------------------------------
-
-
-### Troubleshoot.
-Find disk name on terminal
-
-```
-diskutil list
-```
-
-demo disk name is disk2s1
-
-<img width="1063" alt="Screenshot 2567-01-02 at 16 54 32" src="https://github.com/phuminsingla/RW_NTFS_MacOS/assets/5608098/6308a569-e412-43f4-9262-0d5b750da3a6">
-
-
-```
-sudo ntfsfix /dev/disk2s1
-```
-
-![414470440_1521246378655647_5916290364917890632_n](https://github.com/phuminsingla/RW_NTFS_MacOS/assets/5608098/259ecbc1-d581-49d4-beb1-f1d5fc81e5f0)
+<img width="820" alt="Screenshot 2567-01-04 at 22 42 29" src="https://github.com/phuminsingla/RW_NTFS_MacOS/assets/5608098/530e486d-7db4-4591-86df-93897516a370">
 
 -----------------------------------------
 
