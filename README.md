@@ -44,6 +44,8 @@ Allow apps downloaded from NTFS-ReadWrite
 
 ![Screen Shot 2566-10-09 at 14 03 24](https://github.com/phuminsingla/RW_NTFS_MacOS/assets/5608098/38b3ee8c-4a0f-401f-ab7c-47502a076d40)
 
+<img width="268" alt="Screenshot 2567-01-04 at 19 33 53" src="https://github.com/phuminsingla/RW_NTFS_MacOS/assets/5608098/1b21dce6-70fe-40a1-b0b9-42bedcce02c6">
+
 -----------------------------------------
 
 
@@ -67,53 +69,7 @@ sudo ntfsfix /dev/disk2s1
 
 -----------------------------------------
 
-### Bypass password and login start app.
-
-open app Automator
-
-<img width="334" alt="Screenshot 2567-01-02 at 18 06 24" src="https://github.com/phuminsingla/RW_NTFS_MacOS/assets/5608098/acbcf205-d460-4a23-ae4d-c4e51804f7de">
-
-Open an Existing Document...
-
-![103593](https://github.com/phuminsingla/RW_NTFS_MacOS/assets/5608098/52c2731b-7ace-456f-bb94-320d843b1fe5)
-
-
-Select app NTFS-ReadWrite
-
-<img width="512" alt="Screenshot 2567-01-02 at 18 11 40" src="https://github.com/phuminsingla/RW_NTFS_MacOS/assets/5608098/8d579794-aa36-4fa9-a79e-2f8b856537e9">
-
-Copy text and enter username and password on Mac
-
-```
-on run {input, parameters}
-set thePath to POSIX path of (path to me as text)
-set adminUser to "usermac"
-set adminPasswd to "xxxxxxx" # !! NOT RECOMMENDED
-do shell script "sudo cp " & thePath & "Contents/open_rwntfs /usr/local/bin/" user name
-adminUser password adminPasswd with administrator privileges
-do shell script "sudo cp " & thePath & "Contents/rwntfs /usr/local/bin/" user name
-adminUser password adminPasswd with administrator privileges
-do shell script "sudo chown root:wheel /usr/local/bin/rwntfs" user name adminUser
-password adminPasswd with administrator privileges
-do shell script "sudo chmod +x /usr/local/bin/rwntfs" user name adminUser password
-adminPasswd with administrator privileges
-do shell script "sudo chown root:wheel /usr/local/bin/open_rwntfs" user name adminUser
-password adminPasswd with administrator privileges
-do shell script "sudo chmod +x /usr/local/bin/open_rwntfs" user name adminUser password
-adminPasswd with administrator privileges
-do shell script "sudo /usr/local/bin/open_rwntfs" user name adminUser password
-adminPasswd with administrator privileges
-(* comment *)
-return input
-end run
-
-```
-
-![103592](https://github.com/phuminsingla/RW_NTFS_MacOS/assets/5608098/382fd789-4bd1-43ce-8244-27a845a6da7a)
-
-
-
-Save project and add program on Login Items
+### Add program on Login Items
 
 <img width="485" alt="Screenshot 2567-01-02 at 18 13 08" src="https://github.com/phuminsingla/RW_NTFS_MacOS/assets/5608098/ce985fe2-ac6d-4b6e-995a-d23fe9702037">
 
