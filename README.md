@@ -38,9 +38,13 @@ Download NTFS-ReadWrite.dmg
 
 ### Usage.
 
-Open NTFS-ReadWrite.dmg and open file Fix_and_Instll_Application.command
+Open NTFS-ReadWrite.dmg and open file Instll_to_App.command
 
-<img width="820" alt="Screenshot 2567-01-04 at 22 42 29" src="https://github.com/phuminsingla/RW_NTFS_MacOS/assets/5608098/530e486d-7db4-4591-86df-93897516a370">
+![104059](https://github.com/phuminsingla/RW_NTFS_MacOS/assets/5608098/f1a9441a-195a-4b11-a0a1-ea67a26c7b31)
+
+Open NTFS-ReadWrite from Application
+
+![104060](https://github.com/phuminsingla/RW_NTFS_MacOS/assets/5608098/72cfb763-80df-4218-aeda-c377a60801d4)
 
 -----------------------------------------
 
