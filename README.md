@@ -32,7 +32,7 @@ brew install ntfs-3g-mac
 
 ### Step 3
 
-Open NTFS-ReadWrite.dmg and open file Install_to_App.command
+Open NTFS-ReadWrite.dmg and open file Install_to_App.command with Terminal
 
 <img width="450" alt="Screenshot 2567-01-06 at 14 47 18" src="https://github.com/phuminsingla/RW_NTFS_MacOS/assets/5608098/771c52ff-2c36-4cb6-bee7-1d1fd57298e0">
 
