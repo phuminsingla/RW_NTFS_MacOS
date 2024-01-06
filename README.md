@@ -34,11 +34,12 @@ brew install ntfs-3g-mac
 
 Open NTFS-ReadWrite.dmg and open file Install_to_App.command
 
-![104059](https://github.com/phuminsingla/RW_NTFS_MacOS/assets/5608098/f1a9441a-195a-4b11-a0a1-ea67a26c7b31)
+<img width="450" alt="Screenshot 2567-01-06 at 14 47 18" src="https://github.com/phuminsingla/RW_NTFS_MacOS/assets/5608098/771c52ff-2c36-4cb6-bee7-1d1fd57298e0">
+
 
 Open NTFS-ReadWrite from Application
 
-![104060](https://github.com/phuminsingla/RW_NTFS_MacOS/assets/5608098/72cfb763-80df-4218-aeda-c377a60801d4)
+<img width="450" alt="Screenshot 2567-01-06 at 14 47 18" src="https://github.com/phuminsingla/RW_NTFS_MacOS/assets/5608098/72cfb763-80df-4218-aeda-c377a60801d4">
 
 -----------------------------------------
 
